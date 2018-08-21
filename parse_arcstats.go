@@ -1,6 +1,5 @@
 package main
 
-import "fmt"
 import "bufio"
 import "strings"
 import "os"
